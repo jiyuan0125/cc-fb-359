@@ -1,0 +1,10 @@
+batch,rows,posted,deduped,revoked
+batch-04,17,13,4,0
+batch-05,15,14,1,0
+batch-06,12,11,1,0
+batch-07,12,11,1,0
+batch-08,10,9,1,0
+batch-09,15,10,4,5
+batch-10,9,8,1,0
+batch-11,8,7,1,0
+batch-12,8,7,1,0
