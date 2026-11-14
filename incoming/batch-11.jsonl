@@ -1,0 +1,8 @@
+{"idem_key": "idm-0086", "seq": 1, "event_time": "2026-05-14T08:20:00Z", "payload": "metric batch flushed"}
+{"idem_key": "idm-0087", "seq": 1, "event_time": "2026-05-14T09:45:00Z", "payload": "retry scheduled"}
+{"idem_key": "idm-0088", "seq": 1, "event_time": "2026-05-14T11:05:00Z", "payload": "record reconciled"}
+{"idem_key": "idm-0089", "seq": 1, "event_time": "2026-05-14T12:30:00Z", "payload": "queue drained"}
+{"idem_key": "idm-0086", "seq": 2, "event_time": "2026-05-14T13:55:00Z", "payload": "snapshot written"}
+{"idem_key": "idm-0090", "seq": 1, "event_time": "2026-05-14T15:15:00Z", "payload": "heartbeat received"}
+{"idem_key": "idm-0091", "seq": 1, "event_time": "2026-05-14T16:40:00Z", "payload": "ledger entry appended"}
+{"idem_key": "idm-0092", "seq": 1, "event_time": "2026-05-14T18:05:00Z", "payload": "cache warmed"}

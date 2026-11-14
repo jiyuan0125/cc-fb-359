@@ -1,0 +1,10 @@
+{"idem_key": "idm-0061", "seq": 1, "event_time": "2026-05-11T09:20:00Z", "payload": "record reconciled"}
+{"idem_key": "idm-0062", "seq": 1, "event_time": "2026-05-11T10:00:00Z", "payload": "queue drained"}
+{"idem_key": "idm-0045", "seq": 2, "event_time": "2026-05-11T10:01:00Z", "payload": "snapshot written"}
+{"idem_key": "idm-0063", "seq": 1, "event_time": "2026-05-11T11:30:00Z", "payload": "heartbeat received"}
+{"idem_key": "idm-0064", "seq": 1, "event_time": "2026-05-11T12:40:00Z", "payload": "ledger entry appended"}
+{"idem_key": "idm-0061", "seq": 2, "event_time": "2026-05-11T13:50:00Z", "payload": "cache warmed"}
+{"idem_key": "idm-0056", "seq": 2, "event_time": "2026-05-11T14:45:00Z", "payload": "stream offset advanced"}
+{"idem_key": "idm-0065", "seq": 1, "event_time": "2026-05-11T15:55:00Z", "payload": "job acknowledged"}
+{"idem_key": "idm-0066", "seq": 1, "event_time": "2026-05-11T17:10:00Z", "payload": "checkout completed"}
+{"idem_key": "idm-0067", "seq": 1, "event_time": "2026-05-11T19:30:00Z", "payload": "session refreshed"}
